@@ -1,0 +1,1 @@
+The Analog Clock project I created utilizes HTML for structuring the basic elements, CSS for styling and positioning, and JavaScript for dynamic time updates. Through these technologies, the project seamlessly combines design and functionality to display an interactive and visually appealing analog clock on web browsers.
